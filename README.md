@@ -6,6 +6,7 @@ O projeto tem como objetivo montar nossa primeira página web que será a replic
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
+https://jessicasaantos.github.io/cv/
 
 **Fork do projeto:** 
 
